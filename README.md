@@ -37,6 +37,7 @@ Tools that let you practice judgment, not just calculation.
 ## Research & Data
 
 - [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar) - Primary source for 10-K, 10-Q, proxy filings. Free, complete.
+- [PortfolioSavvy](https://portfoliosavvy.com/) - Browse SEC ownership research for 13F holders, CUSIP history, insider activity, and 13D/G filings. Free, browser-based.
 - [Wisesheets Free](https://wisesheets.io/) - Pull financial data into Google Sheets with formulas. Free tier available.
 - [Stockanalysis.com](https://stockanalysis.com/) - Clean financial statements, ratios, and segment data. Free for most tickers.
 - [Tikr.com (Free)](https://tikr.com/) - 10 years of financial history for international stocks. Free with sign-up.
